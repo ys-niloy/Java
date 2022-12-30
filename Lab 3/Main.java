@@ -1,5 +1,3 @@
-//Md. Tahsin Hasib 22-46026-1
-
 import java.lang.*;
 
 public class Main{
