@@ -21,7 +21,7 @@ public class Main{
 
         
 
-        // for textbook
+        //Text Book
         TextBook t1 = new TextBook();
         TextBook t2 = new TextBook("3001",
                                     "Advanced Python With Harry",
