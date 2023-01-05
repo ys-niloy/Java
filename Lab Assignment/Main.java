@@ -4,7 +4,7 @@ public class Main
 {
 	public static void main(String[] args) {
 
-		TextBook tb1 = new TextBook("111", "Advanced Java", "Hasib", 330, 30, 37);
+		TextBook tb1 = new TextBook("111", "Advanced Java", "Steve", 330, 30, 37);
 		// TextBook tb2 = new TextBook();
 		// TextBook tb3 = new TextBook();
 		// TextBook tb4 = new TextBook();
